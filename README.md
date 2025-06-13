@@ -52,14 +52,14 @@ This project presents an interactive and insightful **Uber Trip Analysis Dashboa
 
 ## 📂 Folder Structure
 
-Uber-Trip-Analysis/
-│
-├── Data/ # Raw or processed data files
-├── Reports/ # Power BI .pbix file
-├── Screenshots/ # Dashboard image exports
-│ ├── overview-analysis.png
-│ └── time-analysis.png
-└── README.md # Project documentation
+- Uber-Trip-Analysis/
+- │
+- ├── Data/ # Raw or processed data files
+- ├── Reports/ # Power BI .pbix file
+- ├── Screenshots/ # Dashboard image exports
+- │ ├── overview-analysis.png
+- │ └── time-analysis.png
+- └── README.md # Project documentation
 
 
 ---
