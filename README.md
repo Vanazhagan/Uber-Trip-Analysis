@@ -83,13 +83,4 @@ Uber-Trip-Analysis/
 
 ---
 
-## 📬 Contact
-
-**Vanazhagan**  
-**Aspiring Data Analyst**  
-📍 Thanjavur, India  
-💡 Tools: Power BI | Python | MySQL | Excel  
-
----
-
 > **Note**: This project is for learning and portfolio purposes only. Data is anonymized or simulated.
