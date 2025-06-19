@@ -3,6 +3,10 @@
 
 This project presents an interactive and insightful **Uber Trip Analysis Dashboard** built using **Microsoft Power BI**. The dashboard explores booking patterns, payment trends, trip distances, and vehicle usage across various dimensions, helping stakeholders make data-driven decisions.
 
+![overview-analysis 1](https://github.com/Vanazhagan/Uber-Trip-Analysis/blob/main/overview-analysis.png.png)  
+![time-analysis 2](https://github.com/Vanazhagan/Uber-Trip-Analysis/blob/main/time-analysis.png.png)
+
+---
 ## 📁 Project Details
 
 - **Project Name**: Uber Trip Analysis
